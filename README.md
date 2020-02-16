@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## AMiner
 
-You can use the [editor on GitHub](https://github.com/AMinerOfficials/AMinerOfficials.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国上下，为此我公司（北京智谱华章科技有限公司，下简称“智谱华章”），出于公益目的，收集整理了国内外的一些相关信息。在此为心系疫情的同胞们献上。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 新冠病毒学术相关事件整理
 
-### Markdown
+[新冠病毒感染肺炎-学术成果时间线](https://www.aminer.cn/2019-ncov-pubs-timeline) - 收集整理了与新冠病毒相关的论文、论点和事件，以时间线的形式展现  
+<div align=center>< img src="/img/shijian.jpg" width="80%"></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 新冠病毒研究领域河流图
 
-```markdown
-Syntax highlighted code block
+[新冠病毒研究领域河流图](http://trend.aminer.cn/trend/5e3bdbf9e99f9e2b31cd6b77) - 整理分析了当前和历史对冠状病毒的各类研究趋势
+<div align=center>< img src="/img/trend.jpg" width="80%"></div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AMinerOfficials/AMinerOfficials.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 21世纪病毒疾病爆发病原体科普，以及冠状病毒成员科普
+[冠状病毒和近20年爆发的病原体科普](https://github.com/AMinerOfficials/VirusKnowledge/wiki)
