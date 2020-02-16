@@ -7,5 +7,7 @@
 
 ### 新冠病毒研究领域河流图
 
+
+
 [新冠病毒研究领域河流图](http://trend.aminer.cn/trend/5e3bdbf9e99f9e2b31cd6b77) - 整理分析了当前和历史对冠状病毒的各类研究趋势
-<img src="/img/trend.jpg" width="80%">
+<img src="/img/trend.jpg" width="100%">
