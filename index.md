@@ -19,7 +19,7 @@
   
 [点击查看冠状病毒研究领域分析河流图](http://trend.aminer.cn/trend/5e3bdbf9e99f9e2b31cd6b77) - 整理分析了近几十年冠状病毒领域的学术研究趋势  
 
-< img src="/img/trend.jpg" width="100%">
+<img src="/img/trend.jpg" width="100%">
 
 
 ### 技术趋势分析系统功能介绍 
