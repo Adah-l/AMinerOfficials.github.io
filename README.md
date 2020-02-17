@@ -9,9 +9,9 @@
 
 #### 今日数据更新：
 
-1、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1) `02.17`新增2篇论文；  
-2、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)`02.17`更新3条重大新闻；  
-3、[SARS CoV-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/SARS-CoV#6.2)`02.17`新增5篇专利；  
+1、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增2篇论文；  
+2、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  更新3条重大新闻；  
+3、[SARS CoV-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/SARS-CoV#6.2)  新增5篇专利；  
 ...
 
 
