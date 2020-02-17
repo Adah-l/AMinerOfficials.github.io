@@ -1,7 +1,6 @@
-theme: jekyll-theme-minimal
-
-title: AMiner
-logo: /img/logo.png
-description:  
+title: AMiner冠状及流感病毒知识集锦
+logo: /img/vir.jpg
+description: 
 show_downloads: false
 google_analytics:
+theme: jekyll-theme-minimal
