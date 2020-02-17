@@ -1,11 +1,18 @@
-## AMiner
+自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国人民的心，[AMiner](https://www.aminer.cn/)平台出于公益目的，收集整理了近几十年来国内外对人类有强感染性的肺炎病毒相关信息，在此为心系疫情的同胞们献上。
 
-自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国人民的心，我公司北京智谱华章科技有限公司（AMiner）出于公益目的，收集整理了近几十年来国内外对人类有强感染性的肺炎病毒相关信息，在此为心系疫情的同胞们献上。
-
-### 冠状及流感病毒的知识信息集锦
+### 冠状及流感病毒知识集锦
    
-近些年爆发了SARS、MERS、H5N1、COVID-19等病毒引起的呼吸系统疾病，我们整理了以冠状病毒为主的一些对人类有感染性的重大病毒，包括其基本信息、防治方法、杰出学者/团队、学术及专利进展等，详情可点击以下链接：  
-[冠状病毒和流感病毒信息集锦](https://github.com/AMinerOfficials/VirusKnowledge/wiki)
+近些年爆发了SARS、MERS、H5N1、COVID-19等病毒引起的呼吸系统疾病，我们整理了以冠状病毒为主的一些对人类有感染性的重大病毒，包括其基本信息、防治方法、杰出学者/团队、学术及专利进展等。  
+我们每天会进行数据更新，欢迎各位朋友一起参与完善。
+ 
+[点击查看冠状及流感病毒知识集锦](https://github.com/AMinerOfficials/VirusKnowledge/wiki)
+
+#### 今日数据更新：
+
+1、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1) `02.17`新增2篇论文；  
+2、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)`02.17`更新3条重大新闻；  
+3、[SARS CoV-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/SARS-CoV#6.2)`02.17`新增5篇专利；  
+...
 
 
 ### 新冠病毒研究领域技术趋势分析
