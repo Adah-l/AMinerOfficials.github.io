@@ -3,14 +3,14 @@ layout: default
 ---
 
 # 注意
-这个文件只能查看页面效果  需要更新到 [https://aminerofficials.github.io/](https://aminerofficials.github.io/) 页面，请编辑index.md
-页面最上面的
+这个文件只能查看页面效果  需要更新到 [https://aminerofficials.github.io/](https://aminerofficials.github.io/) 页面，请编辑***index.md***  
+***页面最上面的***
 ```
     ---
     layout: default
     ---
 ```
-不可以移除
+***不可以移除***
 
 
 自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国人民的心，[AMiner](https://www.aminer.cn/)平台出于公益目的，收集整理了近几十年来国内外对人类有强感染性的肺炎病毒相关信息，在此为心系疫情的同胞们献上。
