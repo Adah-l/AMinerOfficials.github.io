@@ -5,11 +5,9 @@ layout: default
 # 注意
 这个文件只能查看页面效果  需要更新到 [https://aminerofficials.github.io/](https://aminerofficials.github.io/) 页面，请编辑***index.md***  
 ***页面最上面的***
-```
-    ---
-    layout: default
-    ---
-```
+---
+layout: default
+---
 ***不可以移除***
 
 
