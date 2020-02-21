@@ -13,9 +13,9 @@ layout: default
 
 #### 今日数据更新：
 
-1、[COVID_19-病毒概述-百科图谱](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#1.1)  增加2019新冠病毒百科知识图谱；  
-2、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增5篇论文；  
-3、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  更新3条重大新闻；   
+1、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  新增4篇重要新闻；  
+2、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增3篇论文；  
+3、[H5N1-疫情转折点](https://github.com/AMinerOfficials/VirusKnowledge/wiki/H5N1#4)  更新了疫情转折点、学术突破和重要新闻报道；   
 ...
 
 
