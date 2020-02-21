@@ -2,16 +2,6 @@
 layout: default
 ---
 
-# 注意  
-
-这个文件只能查看页面效果  需要更新到 [https://aminerofficials.github.io/](https://aminerofficials.github.io/) 页面，请编辑***index.md***  
-***页面最上面的***
-
-layout default
-
-***不可以移除***
-
-
 自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国人民的心，[AMiner](https://www.aminer.cn/)平台出于公益目的，收集整理了近几十年来国内外对人类有强感染性的肺炎病毒相关信息，在此为心系疫情的同胞们献上。
 
 ### 冠状及流感病毒知识集锦
@@ -23,13 +13,14 @@ layout default
 
 #### 今日数据更新：
 
-1、[COVID_19-病毒概述-百科图谱](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#1.1)  增加2019新冠病毒百科知识图谱；  
-2、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增5篇论文；  
-3、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  更新3条重大新闻；   
+1、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  新增4篇重要新闻；  
+2、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增3篇论文；  
+3、[H5N1-疫情转折点](https://github.com/AMinerOfficials/VirusKnowledge/wiki/H5N1#4)  更新了疫情转折点、学术突破和重要新闻报道；   
 ...
 
 
 ### 新冠病毒研究领域趋势分析
+
   
 [点击查看冠状病毒研究领域分析河流图](http://trend.aminer.cn/trend/5e3bdbf9e99f9e2b31cd6b77) - 整理分析了近几十年冠状病毒领域的学术研究趋势  
 
