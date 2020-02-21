@@ -1,11 +1,11 @@
-I"�<h1 id="注意">注意</h1>
+I"�<h1 id="注意">注意</h1>
 
 <p>这个文件只能查看页面效果  需要更新到 <a href="https://aminerofficials.github.io/">https://aminerofficials.github.io/</a> 页面，请编辑<strong><em>index.md</em></strong><br />
-<strong><em>页面最上面的</em></strong></p>
-
-<p>layout default</p>
-
-<p><strong><em>不可以移除</em></strong></p>
+<strong><em>页面最上面的</em></strong>
+—
+layout: default
+—
+<strong><em>不可以移除</em></strong></p>
 
 <p>自武汉疫情爆发以来，新型冠状病毒的疫情牵动着全国人民的心，<a href="https://www.aminer.cn/">AMiner</a>平台出于公益目的，收集整理了近几十年来国内外对人类有强感染性的肺炎病毒相关信息，在此为心系疫情的同胞们献上。</p>
 
