@@ -20,6 +20,7 @@ layout: default
 
 
 ### 新冠病毒研究领域趋势分析
+
   
 [点击查看冠状病毒研究领域分析河流图](http://trend.aminer.cn/trend/5e3bdbf9e99f9e2b31cd6b77) - 整理分析了近几十年冠状病毒领域的学术研究趋势  
 
