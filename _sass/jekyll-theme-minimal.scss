@@ -2,12 +2,13 @@
 @import "rouge-github";
 
 body {
+  margin:0;
+  width:100%;
+}
+mywrap{
+  margin: 0 auto;
   background-color: #fff;
-<<<<<<< HEAD
   padding:50px 50px 0px 50px;
-=======
-  padding:50px;
->>>>>>> parent of 1718c17... add head
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
