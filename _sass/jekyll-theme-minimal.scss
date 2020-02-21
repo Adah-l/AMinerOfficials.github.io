@@ -8,7 +8,7 @@ body {
 mywrap{
   margin: 0 auto;
   background-color: #fff;
-  padding:0px 50px 0px 50px;
+  padding:50px 50px 0px 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -114,6 +114,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  margin-top:70px;
 }
 
 ul.downloads {
@@ -180,6 +181,7 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  margin-top:70px;
 }
 
 small {

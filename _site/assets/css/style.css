@@ -134,7 +134,7 @@
 
 body { margin: 0; width: 100%; }
 
-mywrap { margin: 0 auto; background-color: #fff; padding: 0px 50px 0px 50px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 400; }
+mywrap { margin: 0 auto; background-color: #fff; padding: 50px 50px 0px 50px; font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #727272; font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 { color: #222; margin: 0 0 20px; }
 
@@ -174,7 +174,7 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
+header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; margin-top: 70px; }
 
 ul.downloads { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
@@ -196,7 +196,7 @@ strong { color: #222; font-weight: 700; }
 
 .downloads a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 500px; float: right; padding-bottom: 50px; }
+section { width: 500px; float: right; padding-bottom: 50px; margin-top: 70px; }
 
 small { font-size: 11px; }
 
