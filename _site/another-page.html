@@ -4,6 +4,77 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      body{
+        margin-top: 0px;
+      }
+      .myhead{
+        height: 48px;
+        padding-top: 6px;
+        background-color: #001025;
+        border-bottom: 1px solid #fff;
+        margin-bottom: 15px;
+      }
+      .menu{
+        position: absolute;
+        top: 0;
+        left: 18%;
+        width: 66%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        color: #8fa1b8;
+        text-align: center;
+        -webkit-user-select: none; 
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+      .menu_item {
+        flex: 1 1;
+        height: 58px;
+        line-height: 50px;
+        cursor: pointer;
+      }
+      .menu_item:hover {
+        color: #0095ff;
+        font-weight: bold;
+        border-bottom: 3px solid #0095ff;
+      }
+      .logo1 {
+          float: left;
+          margin-top: 4px;
+          margin-left: 12px;
+          width: 42px;
+      }
+      .logo2 {
+          float: left;
+          margin-top: 2px;
+          width: 78px;
+      }
+      .logo_line {
+          float: left;
+          width: 2px;
+          height: 22px;
+          margin: 6px 10px;
+          background-color: #979797;
+      }
+      .mya{
+        flex: 1 1;
+        color: #8fa1b8;
+        height: 58px;
+        line-height: 50px;
+        display : block;
+      }
+      .mya:hover{
+        color: #0095ff;
+      }
+/*      @media screen and (max-width: 768px){
+        .menu{
+          display: none;
+        }
+      }*/
+    </style>
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>AMiner冠状及流感病毒知识集锦</title>
@@ -23,6 +94,20 @@
     <![endif]-->
   </head>
   <body>
+    <div class="myhead">
+      <img class="logo1" src="/img/ckcestlogo.png">
+      <span class="logo_line"></span>
+      <img class="logo2" src="/img/aminerlogo.png">
+      <div class="menu">
+        <a class="mya" href="https://covid-19.aminer.cn/"><div class="menu_item">首页</div></a>
+        <a class="mya" href="https://2019-ncov.aminer.cn/data"><div class="menu_item">趋势预测</div></a>
+        <a class="mya" href="https://2019-ncov.aminer.cn/"><div class="menu_item">专家学者</div></a>
+        <a class="mya" href="https://www.aminer.cn/2019-ncov-pubs-timeline"><div class="menu_item">学术成果</div></a>
+        <a class="mya" href="https://zhengce.aminer.cn/"><div class="menu_item">政策地图</div></a>
+        <a class="mya" href="https://aminerofficials.github.io/"><div class="menu_item" style="min-width: 170px;">冠状/流感病毒知识集锦</div></a>
+      </div>
+    </div>
+    <div class="mywrap">
     <div class="wrapper">
       <header>
         <h1 style="font-size: 18px;color: #437bb4;"><!-- <a href="http://localhost:4000/"> -->AMiner冠状及流感病毒知识集锦<!-- </a> --></h1>
@@ -53,6 +138,7 @@
         
         <p><small style="font-size: 13px;"><a href="https://www.aminer.cn/">www.aminer.cn</a></small></p>
       </footer>
+    </div>
     </div>
     <script src="/assets/js/scale.fix.js"></script>
     
