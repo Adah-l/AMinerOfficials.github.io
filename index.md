@@ -14,7 +14,7 @@ layout: default
 
 #### 今日数据更新：
 
-1、[COVID_19-杰出贡献团队](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#5.2)  新增王辰、陈薇等6位杰出院士团队；  
+1、[COVID_19-杰出贡献团队](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#5.2)  新增王辰、陈薇、乔杰、张伯礼等6位杰出院士团队；  
 2、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  新增3篇疫情重要新闻；  
 3、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增3篇病毒进展性论文；   
 ...
