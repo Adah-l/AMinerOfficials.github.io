@@ -15,8 +15,8 @@ layout: default
 #### 今日数据更新：
 
 1、[COVID_19-重要新闻报道](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#7)  新增3篇国内外重要疫情新闻；      
-2、[COVID_19-杰出贡献团队](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#5.2)  更新钟南山、李兰娟、仝小林、王辰等4位院士团队的最新研究进展；  
-3、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增3篇病毒研究进展论文；   
+2、[COVID_19-杰出贡献团队](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#5.2)  更新张文宏院士团队的最新研究进展；  
+3、[COVID_19-学术突破-重要论文](https://github.com/AMinerOfficials/VirusKnowledge/wiki/2019COVID_19#6.1)  新增2篇病毒研究进展论文；   
 ...
 
 
